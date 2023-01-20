@@ -16,7 +16,7 @@ export const GiftExpertApp = () => {
     return (
         <>
              {/*Titulo App  */}
-            <h1>GiftExpertApp</h1>
+            <h1>GifExpertApp</h1>
             {/* Input */}
             <AddCategory 
                 onNewCategory={ event => onAddCategory(event) }
